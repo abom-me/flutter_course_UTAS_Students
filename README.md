@@ -5,7 +5,7 @@
 - *Course Name:* Build Your First App Using Flutter
 - **Audience:** UTAS Students
 - **Date:** 11nd - 13th March 2025
-- **Day:** Day 01 - 03
+- **Day:** Day 02 - 03
 
 ## Course Overview
 
@@ -13,20 +13,19 @@ Learn about Flutter and how to install it, build your first app, use widgets, an
 
 ## Course Outline
 
-### Day 1: 
-- Learn about Flutter
-- Explore The Defualt Project
-- Learn about Widgets
-- Learn about Stateless Widgets & Stateful Widgets
+### Day 2: 
+- Learn Packages and how to use them
+- Learn about Navigation and how to navigate between screens
+- Learn about Textfield and how to use it
+- Learn how to save data locally using SharedPreferences
 
 ----- 
 
 ### Resourses
-  You can find the youtube video [Intall Flutter in windows](https://youtu.be/v2oItFAPDu4?feature=shared)
+  You can find the Packages website [Flutter Packages](https://pub.dev/)
 
-   You can find the youtube video [Intall Flutter in Macos](https://youtu.be/gHTiVSshS2A?feature=shared)
 
- 
+  
  
 
 #### Notes:
