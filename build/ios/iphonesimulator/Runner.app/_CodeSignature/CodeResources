@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		En7lHDIMNfZk3PunacSMJRnOaE4=
+		IqyU9ZRbprF/M8LGeyQJhKnfY5c=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,23 +54,23 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		RdqdG8vK//c0ukg0Ng95QCUxd6U=
+		kPNMHXLMOfNS1UBw5ie8g1tGFwA=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
 		<data>
-		ME0cAg6cl/bTZmwXEVgMugDccUI=
+		wBaCgU2+vxj3HVDu7mOUWxqbk+4=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		oG5/OGn+vw7vp/nu5DUDoZJ4nFc=
+		vphSLy616bWxrtJ7u2QqQg99Rhg=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
-		vKJkVIcw+LGHFnKJGwrQwCREv68=
+		lHy6kHpjlGpeyH53hYaQUIfHuGY=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
-		dUcNcOoc9gCJVWGZxCTFvcs4nXI=
+		y/lK5c7LOHpPWex9h+5u283ABWw=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NativeAssetsManifest.json</key>
 		<data>
@@ -86,7 +86,291 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		mDVaZmK4BudSVBdQh1x715a0v+4=
+		z0D6PZG6puQ62Pnw7xMMO4M6Cuo=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Amiri/Amiri-Bold.ttf</key>
+		<data>
+		TcXieU33vyjsR4DxS8HJTnKIf64=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Amiri/Amiri-BoldItalic.ttf</key>
+		<data>
+		lqM3YvslonoUaMiOpo5PlZfDRbM=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Amiri/Amiri-Italic.ttf</key>
+		<data>
+		Ga/JIFoboemH3t0a70vtCzB0HdM=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Amiri/Amiri-Regular.ttf</key>
+		<data>
+		b8ra0TpW12BdFvzdPuSSUaHrHyo=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Aref_Ruqaa/ArefRuqaa-Bold.ttf</key>
+		<data>
+		a6V8OtVCMQwWsN5zRb99siCNxvc=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Aref_Ruqaa/ArefRuqaa-Regular.ttf</key>
+		<data>
+		/tjlY1PgvOejzWeBNTSC4MYQCXs=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Avenir_Arabic/Avenir-Arabic-Black.ttf</key>
+		<data>
+		Ilb29uia0O2uuMjgoI5KkXPX3rY=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Avenir_Arabic/Avenir-Arabic-Book.ttf</key>
+		<data>
+		WN6z8lFhIpadiPTUL1Hms3nYBVg=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Avenir_Arabic/Avenir-Arabic-Heavy.ttf</key>
+		<data>
+		L0PBM2uL4bd+dxxiuEDiDzovLLE=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Avenir_Arabic/Avenir-Arabic-Medium.ttf</key>
+		<data>
+		aZleIQut05TrhrEpIEUZh2RJcyE=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Avenir_Arabic/Avenir-Arabic-Regular.ttf</key>
+		<data>
+		xtOanjmRvUGjiSPZ2guqk3wkuWU=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Baloo_Bhaijaan/BalooBhaijaan-Regular.ttf</key>
+		<data>
+		Rudp34mlvUH+RpUFrD75m7NZx6A=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Cairo/Cairo-Black.ttf</key>
+		<data>
+		fzfu+ZekGLQEW2tP3wVn/WIBstc=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Cairo/Cairo-Bold.ttf</key>
+		<data>
+		ljcXJhzhbMaBeppaU5iw35HXMXU=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Cairo/Cairo-ExtraLight.ttf</key>
+		<data>
+		oDs0EUZbLAre1VmZV5E0DnQ5sIo=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Cairo/Cairo-Light.ttf</key>
+		<data>
+		VQ9JRKCCqovUe9hcsAKNH2pTh6g=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Cairo/Cairo-Regular.ttf</key>
+		<data>
+		QsTQw6DMX090zdLaMZoEk5s4C20=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Cairo/Cairo-SemiBold.ttf</key>
+		<data>
+		w7CtFI+/G+svFD42VocoFwD2zgY=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Changa/Changa-Bold.ttf</key>
+		<data>
+		r2MNfUCPNLTCRYyylYPHmU2Oj/E=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Changa/Changa-ExtraBold.ttf</key>
+		<data>
+		1ZwJxmm0pU35LKPIQ/SNJpkanRE=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Changa/Changa-ExtraLight.ttf</key>
+		<data>
+		dn+6yx6DdTndMEZvInQ9Gp1Sv6c=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Changa/Changa-Light.ttf</key>
+		<data>
+		1dCrHLYtfl28aJsTLAezCcjZIlM=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Changa/Changa-Medium.ttf</key>
+		<data>
+		Wt5IYOjI/jjqmhXaT9Sz7BdLgeQ=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Changa/Changa-Regular.ttf</key>
+		<data>
+		/MPWnoYw1225UippSmCHeplKV9I=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Changa/Changa-SemiBold.ttf</key>
+		<data>
+		sIXPX1WpRWaHWu7LIaveyYtLgQg=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/DinNextLTArabic/ArbFONTS-DINNEXTLTARABIC-LIGHT-1.ttf</key>
+		<data>
+		wD/nvqTxQF1VIOyYl5XC6UI69sI=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/DinNextLTArabic/ArbFONTS-DINNextLTArabic-Black-3.ttf</key>
+		<data>
+		+8yaXOn0+0xZ3/cqpww2SEti6B8=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/DinNextLTArabic/ArbFONTS-DINNextLTArabic-Bold-2.ttf</key>
+		<data>
+		xaIP+dZ+/z5qXwuXgZ4zZUp9ySk=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/DinNextLTArabic/ArbFONTS-DINNextLTArabic-Heavy-1.ttf</key>
+		<data>
+		LA9TLdMQ8TPrNGYnufY95x3pcO0=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/DinNextLTArabic/ArbFONTS-DINNextLTArabic-Medium-2.ttf</key>
+		<data>
+		dehlIKDtiwl4/kyfYhYrz1FX7SU=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/DinNextLTArabic/ArbFONTS-DINNextLTArabic-Regular-2.ttf</key>
+		<data>
+		37voiYzs2wNG3s7lveQUMRXY6FQ=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Dubai/Dubai-Bold.ttf</key>
+		<data>
+		MX0gXU9k2T3BONkIUgk7xjZ4F7w=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Dubai/Dubai-Light.ttf</key>
+		<data>
+		lRgsaYYQC7YJZR1nj2LaZCFHq8I=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Dubai/Dubai-Medium.ttf</key>
+		<data>
+		sMfH3rClPb05mwmnAZ4yw/g7S08=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Dubai/Dubai-Regular.ttf</key>
+		<data>
+		vT2MNMUzZ+MtG/1IR02aAAX9vps=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/El_Messiri/ElMessiri-Bold.ttf</key>
+		<data>
+		Djh04nWYcjDk/hYBYO43JZ1DAUU=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/El_Messiri/ElMessiri-Medium.ttf</key>
+		<data>
+		RzMGSQ7+oGJ7IByTotREsjYAfZY=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/El_Messiri/ElMessiri-Regular.ttf</key>
+		<data>
+		akCw4FjsyUhYrzKHt8E9+3vKT8M=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/El_Messiri/ElMessiri-SemiBold.ttf</key>
+		<data>
+		F2USXaLh79inzVgyFEIj/zOODJA=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Harmattan/Harmattan-Regular.ttf</key>
+		<data>
+		HGJcZ1iqCzlKaXwiF37Xk5TQzKI=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Jomhuria/Jomhuria-Regular.ttf</key>
+		<data>
+		8Yk6CUKKAFZesNYCfK5gJPRE8hk=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Katibeh/Katibeh-Regular.ttf</key>
+		<data>
+		RrGUx2Bwp2FUI/y6Wlomn+dSOus=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Lalezar/Lalezar-Regular.ttf</key>
+		<data>
+		xYk7rQTneiHUn6C8TLD/0JQgSlk=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Lateef/LateefRegOT.ttf</key>
+		<data>
+		FmnJ2XwdU0Bn4sRfbW9i8QIaUk4=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Lemonada/Lemonada-Bold.ttf</key>
+		<data>
+		sDZ4JF5Ydg6pKjDO66Eongyn9fM=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Lemonada/Lemonada-Light.ttf</key>
+		<data>
+		RP9MqIHv9FLHm2cIxjYb2B2pWkE=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Lemonada/Lemonada-Regular.ttf</key>
+		<data>
+		cJW+v9+y8y7uBaqvC0BGGDJEktk=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Lemonada/Lemonada-SemiBold.ttf</key>
+		<data>
+		73o380HIbKyxSn7v4tdv00+dzcY=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Mada/Mada-Black.ttf</key>
+		<data>
+		KrXQN/73nk2MWGCpjAp5rAxnNL4=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Mada/Mada-Bold.ttf</key>
+		<data>
+		zDbOB3sCQXkyebAyNTnFuKVnj5Q=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Mada/Mada-ExtraLight.ttf</key>
+		<data>
+		uYDCS+q7f6l73Vu4AWM5ab7w3HE=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Mada/Mada-Light.ttf</key>
+		<data>
+		K7M/lYRSomqW4pm2srZCsY9A6GM=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Mada/Mada-Medium.ttf</key>
+		<data>
+		EOCCX/gg17hE2i6e+JSUZ8ZL1gY=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Mada/Mada-Regular.ttf</key>
+		<data>
+		Al58mX3Zja9dcD9ptEkE93TjpQA=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Mada/Mada-SemiBold.ttf</key>
+		<data>
+		gWh9rmBz1JEHhwBVttqxFuhToMY=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Markazi_Text/MarkaziText-Regular.ttf</key>
+		<data>
+		1JSArrCqY8Mb1C+4fJZYnoFrP0o=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Mirza/Mirza-Bold.ttf</key>
+		<data>
+		RB88GlvEUO6Owf8AeaxAqXRQNms=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Mirza/Mirza-Medium.ttf</key>
+		<data>
+		HX/e1ldODnrloBoxrkYgFb4Y9jU=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Mirza/Mirza-Regular.ttf</key>
+		<data>
+		iEc1Khg+I/5p2zFqXlrng1ksgm8=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Mirza/Mirza-SemiBold.ttf</key>
+		<data>
+		g2Se+lLBFjYn7MBMatY0JTUm7pM=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Rakkas/Rakkas-Regular.ttf</key>
+		<data>
+		7t08N6AvucB74ONPATSE6FWtO0k=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Reem_Kufi/ReemKufi-Regular.ttf</key>
+		<data>
+		eh4IxxLgMwx1mMNfI1aDxisnv5M=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Scheherazade/Scheherazade-Bold.ttf</key>
+		<data>
+		VZKu2lANMPBzOJsqDcz0YFhXTzQ=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Scheherazade/Scheherazade-Regular.ttf</key>
+		<data>
+		6UG4guF6p25qsUM/RrVYJKNexXI=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Tajawal/Tajawal-Black.ttf</key>
+		<data>
+		7k5J7dBFqQXUBnHUizXLzhXMszA=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Tajawal/Tajawal-Bold.ttf</key>
+		<data>
+		uLlUj/jnzdBbSBfL4C0eFgONwfs=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Tajawal/Tajawal-ExtraBold.ttf</key>
+		<data>
+		1sHr4pkpG/NIc+axeOniNahElYY=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Tajawal/Tajawal-ExtraLight.ttf</key>
+		<data>
+		riHLsMZksw0/GKdaZgYVIPOub6A=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Tajawal/Tajawal-Light.ttf</key>
+		<data>
+		D1p0PdcMe4GMfVzQGvRtkJn8sTI=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Tajawal/Tajawal-Medium.ttf</key>
+		<data>
+		GP7KtKfVYukY31mRvN0c3K8naI4=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/ibm/IBMPlexArabic-Text.ttf</key>
+		<data>
+		BAnLICLFc+d9Orb6dhRDoUgia3I=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -192,9 +476,29 @@
 		<data>
 		ipm8hg7aB3LzsfShJfpNR0QQ4hw=
 		</data>
+		<key>Frameworks/shared_preferences_foundation.framework/Info.plist</key>
+		<data>
+		TjLkXsH7jgSoMXhAJCrTwME03HM=
+		</data>
+		<key>Frameworks/shared_preferences_foundation.framework/_CodeSignature/CodeResources</key>
+		<data>
+		LzfkQW9UESJjvfPRognpBIcBCTg=
+		</data>
+		<key>Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation</key>
+		<data>
+		hVhJVExPTr379aJcH5vKG/xjqc0=
+		</data>
+		<key>Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation_privacy.bundle/Info.plist</key>
+		<data>
+		bSQrEOtli/q6PuEr19hIU8ThULs=
+		</data>
+		<key>Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation_privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<data>
+		6uLTlq7fgHHWA8emYDf4ImHC+AY=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		6pY86GZuCZ9jkxaBzyhkfv5hByA=
+		cCzPAZ7owGHZoFBq7hOl4q1FynU=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -202,7 +506,7 @@
 		</data>
 		<key>Runner.debug.dylib</key>
 		<data>
-		2FPGCenjOOXiZyRn3/hcQ2tyhEQ=
+		i0eN7M5d+Sg13WaTzx9c4DCRjew=
 		</data>
 		<key>__preview.dylib</key>
 		<data>
@@ -285,7 +589,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5UmFDoO/2+8kQxOZznWSccLcEDhBtX3w4QHX+buacKU=
+			+RX1OT7Fu+Ctm5EBAIOJQ97zkh2jZsaaEoHpolBJ6T0=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -299,35 +603,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TlS8auDWC/ESM5SCKrUgFT48Wu/9JGMsP2tyE332F/k=
+			+Hl19BSNcE0k1Gt0s7MZ2FisAGWjHhyBRDnHEPiIRuU=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AK9VrT1vIYmP534P8JLRoc2lLJQbaGDpko1FyK+MCV0=
+			pheA79qaxkqwhKL/+6F3Mqk672lO1i116SZLky9wEjs=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Sps95+7JukayebvM0TLjL1LW1VXXndpKp/O8tOm9ZR8=
+			+koBLVDGYnC3+AEp9Rsa8N2xFtyVu5ueTXrIn9unOQk=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zX4DZFvESy3Ue3y2JvUcTsv1Whl6t3JBYotHrBZfviE=
+			6kn/eD69xZQDsnFL+DCAvdDIJhHczGUF6B1wYj85zU8=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			32DBDB236mXeOsTZpMz03hA2dhkO90BlcDio6TONeL8=
+			FTd1sDwgYv3zpb/lFZ12BwIoGw9sNsWlQuud7yVgAag=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/NativeAssetsManifest.json</key>
@@ -355,7 +659,504 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FeIPfgUa1zz3G1Les1bArMpU5ZGyNs6rbrnpYdxduuc=
+			NlNCOfkBkqkhbO6lSAA51ipTTfuMLf/dOFF+SYz1wDo=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Amiri/Amiri-Bold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fCpx9IlpsgszWqu1sCkr8n9J2C83RnukUYGJWC603xY=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Amiri/Amiri-BoldItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2gzWnsNdz374KlJ9T5405aQOgE2iZaDhKz+tDsn6HDg=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Amiri/Amiri-Italic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KjgL+KisL5mcduHgXBrEJ1zh/uZK9SGS5SGJSCX3++o=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Amiri/Amiri-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TAn7yWlnoC4KUOIhsIPYbIOScBaAqAsiaDAapP4akEE=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Aref_Ruqaa/ArefRuqaa-Bold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Aza5KityfRPG7DrlV9W1gT+KvW7/+ygHCh27nKJ9Rlo=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Aref_Ruqaa/ArefRuqaa-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QJxx9F8FvYg7kzYMM8u5LfO6CaZaA8Jh7DtMO9G0kJE=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Avenir_Arabic/Avenir-Arabic-Black.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tp7eTzeD7fQS6aXnIHL8otVLCY/hVXn3oRHHB0pU8m4=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Avenir_Arabic/Avenir-Arabic-Book.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NSSEREOS3lAewAPbU2iIY6O1DDeztjVuoDuVLcjqLXU=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Avenir_Arabic/Avenir-Arabic-Heavy.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GK9K/0JWj/O/NAZiOWADCiqFftBsEMRMrr5qUCp5Xuk=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Avenir_Arabic/Avenir-Arabic-Medium.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ngF0mdRbL1trVRoe39V1hHQ38JP8f56QAM/rI3o8DUE=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Avenir_Arabic/Avenir-Arabic-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Q53clc46CW2S6oG66KUhO4VRjGxHhHImGVSICKZmMhY=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Baloo_Bhaijaan/BalooBhaijaan-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TJysFsrZT8aZTujENA+VHpC5WpuVxm21ddhZgwGm6Vw=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Cairo/Cairo-Black.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/BDB57ESw+V+ErAY2ddHRougofroLaSwHTo0Rq3h41E=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Cairo/Cairo-Bold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9sz/gJfG3Db/WEMhNk7mkFWf5MnUeXdqieHW1FxJ4Xs=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Cairo/Cairo-ExtraLight.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Cn70UmzAQbzNQs1D0McF/G/5T3G/WuNW/ZBrBgFUw54=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Cairo/Cairo-Light.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			M7PURTUNXeqalelM44iFt9CXIe6sB1ionA7FkbO46gE=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Cairo/Cairo-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EqSEUkbsp18ZRfPCJOFYBHfZW9GIshEU5PVCPishXlw=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Cairo/Cairo-SemiBold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			G+KX9vLyMzqgNqdNFnz5UNuO/im01GgEay8igi9eBAM=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Changa/Changa-Bold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			h2dddQrwO55wAlMk12QV1lh72oeMlUOLqdl16VbKNZQ=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Changa/Changa-ExtraBold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VFPpVKC+AcwIc9YGzGqPAqpQ3WunZmRImdOU2tLfahw=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Changa/Changa-ExtraLight.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WP5xgGRoPXvpIMWDm7AEjvA5IvSvHuDWuwAYR0+vQdM=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Changa/Changa-Light.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			g60feGPQsOQKbf5j2YeUwbFAm1/e1tPbYFkOunBpZSI=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Changa/Changa-Medium.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aUDALmclnxdSW6YKmnTEKivOo86v/horP4u9770pUwE=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Changa/Changa-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rJvPclGosimbv7gamhZjeffKsdYeqb7APp+OGZxM140=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Changa/Changa-SemiBold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			i+0xpooYCj8KQP9KH/wObMZVLaG43WnC+IZxEasqzhY=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/DinNextLTArabic/ArbFONTS-DINNEXTLTARABIC-LIGHT-1.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wNvzURj/aT6yK3yZbuYzUbddTEJ8djlghj2HPiw1W2w=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/DinNextLTArabic/ArbFONTS-DINNextLTArabic-Black-3.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ML9+bPHXxrxw3PJ4DRdCgfh2DC4tS2xaS8xNlSDUeR8=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/DinNextLTArabic/ArbFONTS-DINNextLTArabic-Bold-2.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BLnd4iEJkW7eYww4BGrPML8KWAJE6gI+iLalJq8BDgA=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/DinNextLTArabic/ArbFONTS-DINNextLTArabic-Heavy-1.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OYU3HTecurZ5gKYtWP87w+9Nvv6MW0QARdnRlEDHJp0=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/DinNextLTArabic/ArbFONTS-DINNextLTArabic-Medium-2.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LUcvrlDscBz79PG2nYZ3Z22/GKTmLl6s2gut9UcV6as=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/DinNextLTArabic/ArbFONTS-DINNextLTArabic-Regular-2.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IRKNIE3iZ28ked7f75N+9Hn+TbwQbCcIy/nir6ExjgM=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Dubai/Dubai-Bold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pInlTEQEW/OyTFB505TFCy85ogO7bj2VJjympTQhZgg=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Dubai/Dubai-Light.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SFuqLB2ZpZapklQeWTKRcwvE1XKTZtGf5h8wcnxMLc4=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Dubai/Dubai-Medium.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qvtY5HmvyixeMYKZiym1Z2ISTB4B49+8xNaLh06Hj5A=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Dubai/Dubai-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			57Iy4NOmaZ+dkCPAtJqSiOrZejO8UXW50WGcCfhnIpg=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/El_Messiri/ElMessiri-Bold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QWZuKgQ2ODCIUmFS2tD5gwt5WTDuU3O2vZlQ9v5YTCE=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/El_Messiri/ElMessiri-Medium.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gxBwf6tTOkk3e15vQlAWfuFXebgi8k3d+pcgPfZbkGs=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/El_Messiri/ElMessiri-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BxJxV/kMyT1d4YlO9pfXJxcxEQYgrEotfIhhtMDHuzk=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/El_Messiri/ElMessiri-SemiBold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Qp4gHxe0QNeOFr1xXWm8fp+meESfm93u/5os5xOJgPg=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Harmattan/Harmattan-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Xr4zGBbP3y4X/Krem6K0XHN54vFIs2oClszucej7v2o=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Jomhuria/Jomhuria-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HZ7Y4jSJ03+w2bOPb1hRyqFjVpw7IkWkVucYavO/5+Q=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Katibeh/Katibeh-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Hz12FkmW2mUI9IqiqMi7hHdNc82eaK/lw9xMwwbY14I=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Lalezar/Lalezar-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VQSqXTLud8bCI3FBjvL2scTmdWdT1MTUhE3dtCpmXDI=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Lateef/LateefRegOT.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pjgBxquP/XN/3AyVr91HJp930z8zADHRlxdghFbZh58=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Lemonada/Lemonada-Bold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BGz2hlhHw0uj55saUtzAeJAQZEna3vvqs1c50jEqvSA=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Lemonada/Lemonada-Light.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FV7GXDn+ZdA7Hqir3+YRHkQGCQDU4f38/j+aayvaCd4=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Lemonada/Lemonada-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NjixqSgIXbOUSbyX5lP+2rihL9a0xEqyMkun9Oa9T1I=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Lemonada/Lemonada-SemiBold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yM247R5S01fBNahXDpPBCQL4IaEtgvEFEXrcRiHTohI=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Mada/Mada-Black.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gaa+vXypaMR6YMqeimY6IRMY8j8pgUO91wqu9dN3pOc=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Mada/Mada-Bold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DONPjsVduURTcQU05o116/KlbJo+DfqTTKCNzln+7l8=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Mada/Mada-ExtraLight.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iXt1FboBObYR/NvTbrfUQUsF4ATd+C5dteTh4RNj5LI=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Mada/Mada-Light.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yD0QhjBkkqjy9Zm+ShhWbhi0pLnvZvOJvs7coaQ0lXg=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Mada/Mada-Medium.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tnoLKLlYdlPxF2qfdZAsh5DvtzWVXkVeryAe4RtEnus=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Mada/Mada-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TASTzhMsZ/0fZmsYTf0PH417RqkNMQvTlq/6nnCM/Qs=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Mada/Mada-SemiBold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			m1rtWsNfRiZrgcstZoZpgdujB3sfw8/X+qH6eQ6Hs6U=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Markazi_Text/MarkaziText-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			udworthWsMk+HAUJksxqxozCeNW/mFSchYeVd4+GJK0=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Mirza/Mirza-Bold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			E9d89m+jMOzqck5p6RVZgVgNNzIOik4vbrwK9tQ8qX4=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Mirza/Mirza-Medium.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			l1Stnwzr/z2CW5CtBLNYDlSC7IUvW8koTydHmlsTu3c=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Mirza/Mirza-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KOTq0SXUyrEBCgG8cC2XektCrSQct5KFt27b/O5lmOw=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Mirza/Mirza-SemiBold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Dp3UDZVHMsWoCQg9cbaDNx/dTyI2qDk3txv0Y9wVZis=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Rakkas/Rakkas-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BH332x2SYKPbBt6GKJvtJsD+Qob+8sgjXDSxBw/g0G4=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Reem_Kufi/ReemKufi-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Nc8xI0SX1c1bPvc18kVuwanxDtHVhkmWdpOlSyPnuG4=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Scheherazade/Scheherazade-Bold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Phf78jft8s8DR8Tpph1pB6r3/o79ly3ZTosLpAQzd4w=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Scheherazade/Scheherazade-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BeGY1utsuhHMFzJOJiJRXA3X85EfUqPQm8Zb170WEVw=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Tajawal/Tajawal-Black.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			whgUJ/aUK551+qnQZYjBlNEwca+++Bqy57eVGFyhSzE=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Tajawal/Tajawal-Bold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			q9TQ/BHWDM3V63xWn80hKIXhpGPAkTquM6DDpFsH+0E=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Tajawal/Tajawal-ExtraBold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			b7g9JAffBAeSfH5mQB+No2UPc9nAQsg6fA6+RBdTYl0=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Tajawal/Tajawal-ExtraLight.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Unx2dNlnEcoBVMZsX5Xs2ObbKwxetEAeG6ToUvDj89g=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Tajawal/Tajawal-Light.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2K7goFv/DSVMfyyHS0EabDqA6HkTv19NfVmM984dWPs=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/Tajawal/Tajawal-Medium.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JoSPzi59/izPh8r/ORwRc0V80hkffgd6CD2X1C62ry4=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/arabic_font/assets/fonts/ibm/IBMPlexArabic-Text.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			V+RLsExrD9EE756XfgOvWwcvcLqqoLWsJ5wYCvD6cdo=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -540,11 +1341,46 @@
 			wSU3Ai74GJkae/7UGnbY1q6WL/vA5lEax2Kl0IRef3w=
 			</data>
 		</dict>
+		<key>Frameworks/shared_preferences_foundation.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			37RBZ0kBHb8aaSH55arPwiEdWk5yKMF8wipHJKJYTK8=
+			</data>
+		</dict>
+		<key>Frameworks/shared_preferences_foundation.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TnLFYXYfluBwM2z4xBynymakOpqxmR9+lys12Ubuyqs=
+			</data>
+		</dict>
+		<key>Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			7NYjRgP5KDV0Mxpubm9MRs6ANFwjhtOf/0sV1Ygm51k=
+			</data>
+		</dict>
+		<key>Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation_privacy.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IRDrpgsuzhbaanY1z2WKdZZxQuQInaZKdTnJ0wBb0R0=
+			</data>
+		</dict>
+		<key>Frameworks/shared_preferences_foundation.framework/shared_preferences_foundation_privacy.bundle/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BWQouTi9VwGKYAGdFcPB7i+nJ/I2h1mLu9k0hIsYCxo=
+			</data>
+		</dict>
 		<key>Runner.debug.dylib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			izFi4Iz+nLr9zLh584e0TRdOEHKwYUlAYhIlQaJcf0g=
+			eWvJPyQ7rfr2dj0R+GLwVOa26wlWKDCZEV7PAs2+VlE=
 			</data>
 		</dict>
 		<key>__preview.dylib</key>

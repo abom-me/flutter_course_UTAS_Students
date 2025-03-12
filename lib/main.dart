@@ -1,4 +1,6 @@
+import 'package:arabic_font/arabic_font.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_app_ut_st/profile.dart';
 
 void main() {
   runApp(const MyApp());
@@ -12,10 +14,15 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Flutter Deemo',
       theme: ThemeData(
-        appBarTheme: AppBarTheme(backgroundColor: Colors.blue),
+        fontFamily: ArabicThemeData.font(
+          /// Select The type of font
+          arabicFont: ArabicFont.dinNextLTArabic,
+        ),
+        package: ArabicThemeData.package,
+        appBarTheme: AppBarTheme(backgroundColor: Colors.greenAccent),
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.amber),
       ),
-      home: const MyHomePage(),
+      home: MyProfile(),
     );
   }
 }
@@ -67,6 +74,13 @@ class _MyHomePageState extends State<MyHomePage> {
           crossAxisAlignment: CrossAxisAlignment.center,
           spacing: 10,
           children: [
+            const Text(
+              'تجربة الخط',
+              style: ArabicTextStyle(
+                arabicFont: ArabicFont.iBMPlexSansArabic,
+                fontSize: 50,
+              ),
+            ),
             const Text('You have pushed the button this many times:'),
             Text(
               '$_counter',
