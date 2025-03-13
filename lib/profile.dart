@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app_ut_st/login.dart';
-import 'package:shared_preferences/shared_preferences.dart';
+import 'package:flutter_app_ut_st/keys.dart';
+import 'package:flutter_app_ut_st/set.dart';
 
 class MyProfile extends StatefulWidget {
   const MyProfile({super.key});
@@ -10,64 +10,55 @@ class MyProfile extends StatefulWidget {
 }
 
 class _MyProfileState extends State<MyProfile> {
-  String name = "";
-  String password = "";
+  TextEditingController name = TextEditingController();
+  TextEditingController phone = TextEditingController();
+  TextEditingController age = TextEditingController();
 
-  getMyProfile() async {
-    final SharedPreferences data = await SharedPreferences.getInstance();
-    name = data.getString("name") ?? "UnKnown";
-    password = data.getString("password") ?? "UnKnown";
-
-    setState(() {});
+  saveData() async {
+    await fireStore.collection("users").add({
+      "name": name.text,
+      "phone": phone.text,
+      "age": age.text,
+      "email": fireAuth.currentUser!.email,
+    });
+    Navigator.of(context).pushAndRemoveUntil(
+      MaterialPageRoute(builder: (context) => Set()),
+      (route) => false,
+    );
   }
 
-  ///  لكي يعمل الفانكشن قبل لا يتم بناء شاشة التطبيق
   @override
   void initState() {
-    getMyProfile();
-
     super.initState();
   }
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        actions: [
-          IconButton(
-            onPressed: () {
-              // الانتقال لصفحة التالية مع ابقاء الصفحة السابقة مفتوحة
-              Navigator.of(
-                context,
-              ).push(MaterialPageRoute(builder: (v) => LoginScreen()));
-
-              // الانتقال لصفحة التالية مع اغلاق الصفحة السابقة
-              // Navigator.of(context).pushReplacement(
-              //   MaterialPageRoute(builder: (r) => LoginScreen()),
-              // );
-
-              // Navigator.of(context).pushAndRemoveUntil(
-              //   MaterialPageRoute(builder: (_) => LoginScreen()),
-              //   (_) => false,
-              // );
-            },
-            icon: Icon(Icons.login),
-          ),
-        ],
-        title: Text("ملفي الشخصي"),
-      ),
+      appBar: AppBar(title: Text("ملفي الشخصي")),
       body: Container(
+        padding: EdgeInsets.all(20),
         width: MediaQuery.of(context).size.width,
         height: MediaQuery.of(context).size.height,
         child: Column(
           children: [
-            Text(
-              "الاسم: $name",
-              style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
+            TextFormField(
+              controller: name,
+              decoration: InputDecoration(labelText: "الاسم"),
             ),
-            Text(
-              "كلمة المرور: $password",
-              style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
+            TextFormField(
+              controller: phone,
+              decoration: InputDecoration(labelText: "الهاتف"),
+            ),
+            TextFormField(
+              controller: age,
+              decoration: InputDecoration(labelText: "العمر"),
+            ),
+            ElevatedButton(
+              onPressed: () {
+                saveData();
+              },
+              child: Text("حفظ"),
             ),
           ],
         ),

@@ -1,8 +1,15 @@
 import 'package:arabic_font/arabic_font.dart';
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_app_ut_st/create_account.dart';
+import 'package:flutter_app_ut_st/firebase_options.dart';
+import 'package:flutter_app_ut_st/keys.dart';
+import 'package:flutter_app_ut_st/login.dart';
 import 'package:flutter_app_ut_st/profile.dart';
 
-void main() {
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
   runApp(const MyApp());
 }
 
@@ -22,7 +29,7 @@ class MyApp extends StatelessWidget {
         appBarTheme: AppBarTheme(backgroundColor: Colors.greenAccent),
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.amber),
       ),
-      home: MyProfile(),
+      home: MyHomePage(),
     );
   }
 }
@@ -36,6 +43,36 @@ class MyHomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<MyHomePage> {
   int _counter = 0;
+  bool loggedIn = false;
+
+  currentUser() async {
+    final user = fireAuth.currentUser;
+    if (user != null) {
+      Future.delayed(Duration(seconds: 1), () {
+        Navigator.of(
+          context,
+        ).push(MaterialPageRoute(builder: (_) => MyProfile()));
+      });
+    } else {
+      setState(() {
+        loggedIn = false;
+      });
+    }
+  }
+
+  logout() async {
+    await fireAuth.signOut();
+    setState(() {
+      loggedIn = false;
+    });
+  }
+
+  @override
+  void initState() {
+    currentUser();
+    // TODO: implement initState
+    super.initState();
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -56,13 +93,23 @@ class _MyHomePageState extends State<MyHomePage> {
           spacing: 20.5,
 
           children: [
-            Text("Hello"),
-            Text("Hello2"),
-            Text("Hello3"),
-            Text("Hello4"),
-            Text("Hello5"),
-            Text("Hello6"),
-            Text("Hello7"),
+            loggedIn
+                ? ListTile(
+                  onTap: () {
+                    logout();
+                  },
+                  leading: Icon(Icons.logout),
+                  title: Text("تسجيل الخروج"),
+                )
+                : ListTile(
+                  onTap: () {
+                    Navigator.of(
+                      context,
+                    ).push(MaterialPageRoute(builder: (_) => LoginScreen()));
+                  },
+                  leading: Icon(Icons.login),
+                  title: Text("تسجيل الدخول"),
+                ),
           ],
         ),
       ),
@@ -74,17 +121,22 @@ class _MyHomePageState extends State<MyHomePage> {
           crossAxisAlignment: CrossAxisAlignment.center,
           spacing: 10,
           children: [
-            const Text(
-              'تجربة الخط',
-              style: ArabicTextStyle(
-                arabicFont: ArabicFont.iBMPlexSansArabic,
-                fontSize: 50,
-              ),
+            ElevatedButton(
+              onPressed: () {
+                Navigator.of(
+                  context,
+                ).push(MaterialPageRoute(builder: (v) => CreateAccount()));
+              },
+              child: Text("انشاء حساب"),
             ),
-            const Text('You have pushed the button this many times:'),
-            Text(
-              '$_counter',
-              style: TextStyle(fontSize: 50, color: Color(0xff4e6be4)),
+
+            ElevatedButton(
+              onPressed: () {
+                Navigator.of(
+                  context,
+                ).push(MaterialPageRoute(builder: (v) => LoginScreen()));
+              },
+              child: Text("تسجيل الدخول"),
             ),
           ],
         ),

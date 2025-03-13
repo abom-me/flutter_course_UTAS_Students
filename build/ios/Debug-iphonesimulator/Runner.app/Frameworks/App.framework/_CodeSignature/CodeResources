@@ -10,11 +10,11 @@
 		</data>
 		<key>flutter_assets/AssetManifest.bin</key>
 		<data>
-		wBaCgU2+vxj3HVDu7mOUWxqbk+4=
+		4yego5owhdM2cFrZajm/5Ch332g=
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		vphSLy616bWxrtJ7u2QqQg99Rhg=
+		NBsdmZEefcZS8pJj2zg+ITYWmwQ=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>flutter_assets/NOTICES.Z</key>
 		<data>
-		y/lK5c7LOHpPWex9h+5u283ABWw=
+		gruFd/AoRaxSYQBL0yXHtiQdCyU=
 		</data>
 		<key>flutter_assets/NativeAssetsManifest.json</key>
 		<data>
@@ -32,13 +32,17 @@
 		<data>
 		/CUoTuPQqqdexfyOT9lpJhV+2MQ=
 		</data>
+		<key>flutter_assets/images/login.png</key>
+		<data>
+		rvkY4rp6R+qPsn84VtA1iWkKj60=
+		</data>
 		<key>flutter_assets/isolate_snapshot_data</key>
 		<data>
 		J3OKveu3/udFiB8O6yi68rDVWOY=
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		z0D6PZG6puQ62Pnw7xMMO4M6Cuo=
+		YL6xsUiV+ZkuwZ17EuZDc4C2A8g=
 		</data>
 		<key>flutter_assets/packages/arabic_font/assets/fonts/Amiri/Amiri-Bold.ttf</key>
 		<data>
@@ -343,14 +347,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pheA79qaxkqwhKL/+6F3Mqk672lO1i116SZLky9wEjs=
+			B97Dqf645R0uN1+Ldy/OJZCss6GAH0DaPU6MNFPQXM0=
 			</data>
 		</dict>
 		<key>flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+koBLVDGYnC3+AEp9Rsa8N2xFtyVu5ueTXrIn9unOQk=
+			FoPbVfA20+HIkg3J2zqUNtzpCPNJEFKFrN/+FC7OGaw=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -364,7 +368,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FTd1sDwgYv3zpb/lFZ12BwIoGw9sNsWlQuud7yVgAag=
+			oKZmn7yJhSvtVtEUwH62iwdjRkrY0I5MaIiVuFwMJuw=
 			</data>
 		</dict>
 		<key>flutter_assets/NativeAssetsManifest.json</key>
@@ -381,6 +385,13 @@
 			2YZbZxoJ1oPROoYwidiCXg9ho3aWzl19RIvIAjqmJFM=
 			</data>
 		</dict>
+		<key>flutter_assets/images/login.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Yd8p8hJyOn5wLHMrU5MkCbocc3rV8XgtJitp1DGpDiw=
+			</data>
+		</dict>
 		<key>flutter_assets/isolate_snapshot_data</key>
 		<dict>
 			<key>hash2</key>
@@ -392,7 +403,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NlNCOfkBkqkhbO6lSAA51ipTTfuMLf/dOFF+SYz1wDo=
+			dGT6PKSptvs1ZJvo6BaZ1artxqteXNZtiV8LpQDTCes=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/arabic_font/assets/fonts/Amiri/Amiri-Bold.ttf</key>

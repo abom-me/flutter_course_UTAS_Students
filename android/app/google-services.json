@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "571617047062",
+    "project_id": "stu-app-ced87",
+    "storage_bucket": "stu-app-ced87.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571617047062:android:5e23f828238c536e4e3b37",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_ut_st"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxB08vHBHv3fj10thj_pJ3TiT90w0Kjqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

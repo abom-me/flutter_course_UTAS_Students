@@ -11,18 +11,21 @@
 
 Learn about Flutter and how to install it, build your first app, use widgets, and connect with databases and APIs, among other topics.
 
-## Course Outline
+## Course Outline 
 
-### Day 2: 
-- Learn Packages and how to use them
-- Learn about Navigation and how to navigate between screens
-- Learn about Textfield and how to use it
-- Learn how to save data locally using SharedPreferences
+### Day 3: 
+- Learn Integration with Firebase
+- Learn Firebase Authentication
+- Learn Firebase Firestore
+- Learn  Send Data to Firebase
+- Learn  Get Data from Firebase 
 
 ----- 
 
 ### Resourses
-  You can find the Packages website [Flutter Packages](https://pub.dev/)
+  You can find the Firebase documentation [Firebase](https://firebase.google.com/docs/)
+
+  You can find youtube about FlutterFire [Youtube](https://www.youtube.com/watch?v=ybgOIwf4dZU)  
 
 
   
